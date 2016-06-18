@@ -6,8 +6,7 @@ h2{
 	color: black; 
 	font-size: 10px;  
 	display: block;
-    
-   	font-weight: bold;
+    	font-weight: bold;
 }
 p{
 	  
@@ -17,14 +16,16 @@ p{
   	color: black;
   	font-family: Cursive; 
   	display: block;
-    	
     	font-weight: bold;
 }
 body{
+	
+
+	
 	background-size: 100%;
      	background-attachment: fixed; 
 	background-repeat: no-repeat; 
 	background-color: white;
-	background-image: url("http://static.tumblr.com/amm1lw6/uL6mt3bro/untitled-1.png");
+	background-image: url("");
 }
 
