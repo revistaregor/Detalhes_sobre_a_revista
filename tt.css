@@ -10,12 +10,12 @@ h2{
 }
 p{
 	  
-	
+	font-style: Arial; 
   	text-align: center;
   	color: black;
   	display: block;	
   	font-family: Helvetica, Geneva, Arial,
-          SunSans-Regular, sans-serif 
+          SunSans-Regular, sans-serif; 
   	
 } 
 ul.navbar{
