@@ -1,13 +1,15 @@
 h2{
   	margin-top: 3%; 
 	text-align: center; 
-	font-style: arial; 
+	font-style: Arial; 
 	font-family: Cursive; 
 	color: black; 
+	font-size: 40px;
 }
 p{
+	font-size:40px;
   	text-align: center;
-  	font-style: arial;
+  	font-style: Arial;
   	color: black;
   	font-family: Cursive; 
 }
