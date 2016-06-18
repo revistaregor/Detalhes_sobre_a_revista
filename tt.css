@@ -9,7 +9,8 @@ h2{
 
 }
 p{
-	text-overflow: clip;
+	
+	text-align: center;
 	text-align: justify; 
   	color: black;
   	display: block;	
