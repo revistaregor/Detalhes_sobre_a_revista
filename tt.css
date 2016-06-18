@@ -10,13 +10,13 @@ h2{
 }
 p{
 	  
-	
+	font-size: 5px;
   	text-align: center;
-  	font-style: Arial;
   	color: black;
   	display: block;	
-  	font-family: Helvetica, Geneva,
-          SunSans-Regular, sans-serif;
+  	font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif 
+  	
 } 
 ul.navbar{
 		list-style-type: none;
