@@ -12,6 +12,9 @@ p{
   	font-style: Arial;
   	color: black;
   	font-family: Cursive; 
+  	display: block;
+    	font-size: 1.5em;
+    	font-weight: bold;
 }
 body{
 	background-size: 100%;
