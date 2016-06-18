@@ -6,7 +6,6 @@ h2{
 	color: black; 
 	font-size: 10px;  
 	display: block;
-    	font-weight: bold;
 }
 p{
 	  
@@ -16,7 +15,6 @@ p{
   	color: black;
   	font-family: Cursive; 
   	display: block;
-    	font-weight: bold;
 } 
 ul.navbar{
 		position: absolute;
