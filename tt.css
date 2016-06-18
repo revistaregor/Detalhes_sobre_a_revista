@@ -17,11 +17,15 @@ p{
   	font-family: Cursive; 
   	display: block;
     	font-weight: bold;
-}
+} 
+ul.navbar{
+		position: absolute;
+    		top: 2em;
+    		left: 1em;
+		 width: 9em 
+	}
 body{
-	
 
-	
 	background-size: 100%;
      	background-attachment: fixed; 
 	background-repeat: no-repeat; 
