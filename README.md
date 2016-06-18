@@ -1,0 +1,1 @@
+# Detalhes_sobre_a_revista
