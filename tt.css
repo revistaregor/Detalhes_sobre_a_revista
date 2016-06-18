@@ -6,6 +6,7 @@ h2{
 	color: black; 
 	font-size: 10px;  
 	display: block;
+
 }
 p{
 	  
@@ -13,8 +14,9 @@ p{
   	text-align: center;
   	font-style: Arial;
   	color: black;
-  	font-family: Cursive; 
-  	display: block;
+  	display: block;	
+  	font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif 
 } 
 ul.navbar{
 		list-style-type: none;
