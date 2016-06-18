@@ -1,13 +1,13 @@
 h2{
   	margin-top: 3%; 
 	text-align: center; 
-	font-style: italic; 
+	font-style: arial; 
 	font-family: Cursive; 
 	color: black; 
 }
 p{
   	text-align: center;
-  	font-style: italic;
+  	font-style: arial;
   	color: black;
   	font-family: Cursive; 
 }
@@ -15,6 +15,6 @@ body{
 	
      	
 	background-color: black;
-	background-image: url("http://images.uncyc.org/pt/8/8d/AApagar.png");
+	background-image: url("https://image.freepik.com/free-photo/white-grunge-texture--distressed_19-117713.jpg");
 }
 
